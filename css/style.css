@@ -174,7 +174,7 @@ img {
 
 /**contacto**/
 .webp .contacto-bg {
-  background-image: url(../img/contacto.webp);
+  background-image: url(../img/contacto.jpg)
 }
 .no-webp .contacto-bg {
   background-image: url(../img/contacto.jpg);
